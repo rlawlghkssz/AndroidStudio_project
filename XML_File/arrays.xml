@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>소프트웨어학부</item>
+        <item>정보융합학부</item>
+        <item>컴퓨터정보공학부</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>2018년</item>
+        <item>2019년</item>
+        <item>2020년</item>
+        <item>2021년</item>
+        <item>2022년</item>
+        <item>2023년</item>
+        <item>2024년</item>
+    </string-array>
+
+    <string-array name="term">
+        <item>1학기</item>
+        <item>여름계절학기</item>
+        <item>2학기</item>
+        <item>겨울계절학기</item>
+    </string-array>
+
+    <string-array name="graduateArea">
+        <item>일반대학원</item>
+    </string-array>
+
+    <string-array name="universityArea">
+        <item>교양및기타</item>
+        <item>교직</item>
+        <item>군사학</item>
+        <item>연계전공</item>
+        <item>융합교과목</item>
+        <item>창업교과목</item>
+        <item>플립드러닝</item>
+        <item>다학년다학기프로젝</item>
+        <item>전자정보공과대학</item>
+        <item>소프트웨어융합대학</item>
+        <item>공과대학</item>
+        <item>자연과학대학</item>
+        <item>인문사회과학대학</item>
+        <item>정책법학대학</item>
+        <item>경영대학</item>
+    </string-array>
+
+    <string-array name="graduateMajor">
+        <item>시공간데이터분석</item>
+        <item>지능 데이터 네트워크</item>
+        <item>빅데이터 컴퓨팅</item>
+        <item>지능형 접근성 경험</item>
+        <item>인공지능 서비스</item>
+        <item>인간중심컴퓨팅</item>
+    </string-array>
+
+    <string-array name="universityRefinementMajor">
+        <item>광운인되기, 영어</item>
+        <item>언어와표현</item>
+        <item>정보영역</item>
+        <item>과학과기술</item>
+        <item>인간과철학</item>
+        <item>사회와경제</item>
+        <item>글로벌문화와제2외국어</item>
+        <item>예술과체육</item>
+        <item>실용영어</item>
+        <item>외국어로서의한국어</item>
+        <item>서울권역e-러닝</item>
+        <item>K-MOOC</item>
+    </string-array>
+
+    <string-array name="universityMajor">
+        <item>전자정보공과대학</item>
+        <item>소프트웨어융합대학</item>
+        <item>공과대학</item>
+        <item>자연과학대학</item>
+        <item>인문사회과학대학</item>
+        <item>정책법학대학</item>
+        <item>경영대학</item>
+    </string-array>
+</resources>
